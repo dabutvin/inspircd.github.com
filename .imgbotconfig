@@ -1,6 +1,6 @@
 {
     "ignoredFiles": [
-	"api/2.0/*.png",
-	"api/3.0/*.png"
+	"api/2.0/**/*.png",
+	"api/3.0/**/*.png"
     ]
 }
